@@ -1,0 +1,18 @@
+#image-container img {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+
+
+#hoodies {
+    display: block;
+    margin: 0 auto;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    background-color: #4CAF50;
+    color: #fff;
+    cursor: pointer;
+}
